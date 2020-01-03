@@ -1,21 +1,21 @@
-## V3.6.1-Wuma高级版-最新下载 【下载时务必关闭vpn】
-**🔴 [Wuma最新版本下载地址请点这里](http://t.cn/Ai14QD8A)🔴**
+## V4.5.3-Wuma高级版-最新下载 【下载时务必关闭vpn】
+**🔴 [Wuma最新版本下载地址请点这里](http://t.cn/AisUFxmp)🔴**
 
 
 
 **其他下载渠道
 
-[安卓版(要求5.0以上)](http://172.105.207.148/com.muma.pn-4.0.0.apk) 
 
-[AWS渠道](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/044/638/818/original/bc29a272b06a6d2b88be0e900a6e071f/com.muma.pn-4.0.0_sign.apk)
+
+[AWS渠道](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/124/451/original/5723c59c4e1dc64b29580ab05457a2ec/com.muma.pn-4.5.3.apk)
 
 其他网盘下载
 
-[Yandex下载](https://yadi.sk/d/IjSFqoUS4byq6Q) 
+[Yandex下载](https://yadi.sk/d/GL3k80kvqew4uw) 
 
-[EverNote](https://www.evernote.com/shard/s633/sh/a387e5ba-b523-48f1-998b-c7ef5b615d27/23b31749d6b4b22eee05ef2db14e719f) 
+[EverNote](https://www.evernote.com/shard/s633/sh/0063621c-6e32-4533-8580-e91a408e8996/e27c557309300777062f780ede78d0d6) 
 
-[Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
+[Google Play（推荐）](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
 
 **由于中国大陆的政策因素，无码已关闭所有中国大陆下载渠道，望众知悉**
@@ -25,7 +25,6 @@
 
 
 异常兼容版本（兼容一些安卓9.0/MIUI 10）：
-[最新版兼容包](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/041/842/385/original/1b1f85d1fb5ea6c153981ca3028b9eed/com.wuma.pn-3.6.1.apk)
 
 异常回退版本（不兼容安卓9.0）：
 [V3.2.8](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/916/046/original/e3ce000a8e429b6081f5f57fa9e645fe/Wuma-git-3.2.8.apk)
