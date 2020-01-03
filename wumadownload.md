@@ -5,7 +5,7 @@
 
 **其他下载渠道
 
-
+[安卓版(要求5.0以上)](http://172.105.207.148/com.muma.pn-4.5.3.apk)
 
 [AWS渠道](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/124/451/original/5723c59c4e1dc64b29580ab05457a2ec/com.muma.pn-4.5.3.apk)
 
