@@ -16,11 +16,15 @@
 ## 最后，无码还是重申最初做vpn的宗旨：免费，公平，有稳定vpn用。 
 
 ## V4.5.5-Wuma高级版-最新下载
-**[Wuma最新版本下载地址请点这里](http://t.cn/A6vNflSh)**
 
-**其他下载渠道 
+[Google Play（推荐）](https://play.google.com/store/apps/details?id=one.free.ss) 
 
-[安卓版(要求5.0以上)](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/672/920/original/823fffa9e20c6c1dac3690858ab9e212/wuma-4.5.5.apk)
+
+
+**其他下载渠道 <br/>
+[国内下载渠道1](http://t.cn/A6vNflSh)
+
+[国内下载渠道2](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/672/920/original/823fffa9e20c6c1dac3690858ab9e212/wuma-4.5.5.apk)
 
 [AWS渠道](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/672/920/original/823fffa9e20c6c1dac3690858ab9e212/wuma-4.5.5.apk)
 
