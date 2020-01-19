@@ -23,7 +23,7 @@
 **其他下载渠道 <br/>
 [国内下载渠道1](http://t.cn/A6vNflSh)
 
-[国内下载渠道2](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/672/920/original/823fffa9e20c6c1dac3690858ab9e212/wuma-4.5.5.apk)
+[国内下载渠道2](http://172.105.238.228/wuma-4.5.5.apk)
 
 [AWS渠道](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/047/672/920/original/823fffa9e20c6c1dac3690858ab9e212/wuma-4.5.5.apk)
 
